@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "name": "Teste - apps teóricos",
+  "games": [
+    {
+      "id": "USA09267",
+      "title": "A Hat in Time",
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-a/A%20Hat%20in%20Time%20-%20[US]%20[EN]%20[1.04].pkg",
+          "sizeBytes": 7746420736,
+          "version": "01.04"
+        }
+      ]
+    },
+{
+      "id": "CUSA03047",
+      "title": "I am Bread",
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-i/I%20am%20Bread%20-%20[EU]%20[EN]%20[1.03].pkg",
+          "sizeBytes": 834011136,
+          "version": "01.03"
+        }
+      ]
+    }
+  ]
+}
